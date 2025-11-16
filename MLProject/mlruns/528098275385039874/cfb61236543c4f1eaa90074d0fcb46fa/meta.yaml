@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/fajar/Documents/Workflow-CI/MLProject/mlruns/528098275385039874/cfb61236543c4f1eaa90074d0fcb46fa/artifacts
+end_time: 1763278552910
+entry_point_name: ''
+experiment_id: '528098275385039874'
+lifecycle_stage: active
+run_id: cfb61236543c4f1eaa90074d0fcb46fa
+run_name: RandomForest_CI
+run_uuid: cfb61236543c4f1eaa90074d0fcb46fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763278548110
+status: 3
+tags: []
+user_id: fajar
